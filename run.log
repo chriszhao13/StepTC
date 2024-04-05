@@ -1,0 +1,65 @@
+$ ./tricount -f livej        0 1
+graph name = livej.edge.bin cache file using vmtouch 
+sh: vmtouch: command not found
+mulity gpu all Time Cost: 23 ms.
+There are 285730264 triangles in the input graph.
+
+$ ./tricount -f orkut        0 1
+graph name = orkut.edge.bin cache file using vmtouch 
+sh: vmtouch: command not found
+mulity gpu all Time Cost: 102 ms.
+There are 627584181 triangles in the input graph.
+
+$ ./tricount -f twitter20        0 1
+graph name = twitter20.edge.bin cache file using vmtouch 
+sh: vmtouch: command not found
+mulity gpu all Time Cost: 772 ms.
+There are 17295646101 triangles in the input graph.
+
+$ ./tricount -f twitter_rv        0 1
+graph name = twitter_rv.edge.bin cache file using vmtouch 
+sh: vmtouch: command not found
+mulity gpu all Time Cost: 2403 ms.
+There are 34824916864 triangles in the input graph.
+
+$ ./tricount -f friendster        0 1
+graph name = friendster.edge.bin cache file using vmtouch 
+sh: vmtouch: command not found
+mulity gpu all Time Cost: 2224 ms.
+There are 4173424142 triangles in the input graph.
+
+$ ./tricount -f s20.kron        0 1
+graph name = s20.kron.edge.bin cache file using vmtouch 
+sh: vmtouch: command not found
+mulity gpu all Time Cost: 26 ms.
+There are 419349784 triangles in the input graph.
+
+$ ./tricount -f s21.kron        0 1
+graph name = s21.kron.edge.bin cache file using vmtouch 
+sh: vmtouch: command not found
+mulity gpu all Time Cost: 59 ms.
+There are 935100883 triangles in the input graph.
+
+$ ./tricount -f s22.kron        0 1
+graph name = s22.kron.edge.bin cache file using vmtouch 
+sh: vmtouch: command not found
+mulity gpu all Time Cost: 146 ms.
+There are 2067392370 triangles in the input graph.
+
+$ ./tricount -f s23.kron        0 1
+graph name = s23.kron.edge.bin cache file using vmtouch 
+sh: vmtouch: command not found
+mulity gpu all Time Cost: 332 ms.
+There are 4549133002 triangles in the input graph.
+
+$ ./tricount -f s24.kron        0 1
+graph name = s24.kron.edge.bin cache file using vmtouch 
+sh: vmtouch: command not found
+mulity gpu all Time Cost: 781 ms.
+There are 9936161560 triangles in the input graph.
+
+$ ./tricount -f s25.kron        0 1
+graph name = s25.kron.edge.bin cache file using vmtouch 
+sh: vmtouch: command not found
+mulity gpu all Time Cost: 1850 ms.
+There are 21575375802 triangles in the input graph.
