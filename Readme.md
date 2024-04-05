@@ -1,5 +1,5 @@
 
-# StepTC: Stepwise Triangle Counting on GPU with Two Efficient Set Intersection methods
+# StepTC: Stepwise Triangle Counting on GPU with Two Efficient Set Intersection Methods
 Welcome to the StepTC project!
 
 We propose a novel stepwise triangle counting algorithm (StepTC). StepTC selects appropriate set intersection methods for each counting step to ensure optimal efficiency on a global scale. It is noteworthy that StepTC outperforms state-of-the-art solutions, delivering impressive speedups ranging from 1.4× to 22.4× on various datasets.
